@@ -26,6 +26,10 @@ body{
     font-size: 16px;
 }
 
+.p1--image{
+    width: 100px;
+    filter: invert(1);
+}
 
 .p--footer{
     text-align: right;
